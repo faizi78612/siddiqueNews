@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/siddiqueNews/static/css/main.abd64e84.css",
+    "main.js": "/siddiqueNews/static/js/main.eb160d79.js",
+    "static/js/787.60235f71.chunk.js": "/siddiqueNews/static/js/787.60235f71.chunk.js",
+    "index.html": "/siddiqueNews/index.html",
+    "main.abd64e84.css.map": "/siddiqueNews/static/css/main.abd64e84.css.map",
+    "main.eb160d79.js.map": "/siddiqueNews/static/js/main.eb160d79.js.map",
+    "787.60235f71.chunk.js.map": "/siddiqueNews/static/js/787.60235f71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.eb160d79.js"
+  ]
+}
